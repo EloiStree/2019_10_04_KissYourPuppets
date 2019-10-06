@@ -1,4 +1,6 @@
 # Kiss Your Puppets
+[![Default Alt](https://img.youtube.com/vi/9L6osH4hdYM/maxresdefault.jpg)](https://youtu.be/9L6osH4hdYM)  
+https://youtu.be/9L6osH4hdYM
 Come play and improvise on random subject with your favorite puppets :).  
 
 Discord: https://discord.gg/rjgsy2d  
