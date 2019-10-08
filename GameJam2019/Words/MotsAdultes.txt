@@ -19,7 +19,7 @@ aveugle
 reflexe
 monde
 fille
-gar\'e7on
+gareon
 promenade
 cochon
 coeur
@@ -244,12 +244,12 @@ bicyclette
 trottinette
 balle
 ballon
-fl\'e8che
+fle8che
 herbe
 feuille
 cendrier
 porte
-fen\'eatre
+feneatre
 jambe
 oreille
 front
@@ -278,7 +278,7 @@ voyage
 avion
 train
 bus
-d\'e9placement
+de9placement
 transport
 croyance
 haut
@@ -293,7 +293,7 @@ gagne
 perte
 psychologie
 philosophie
-le\'e7on
+leeon
 cahier
 rayon
 crayon
@@ -579,7 +579,7 @@ princesse
 ceremonie
 type
 incompletude
-fae7on
+faeon
 trompe
 cerveau
 brule
